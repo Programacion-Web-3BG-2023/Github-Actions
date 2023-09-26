@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  Ejecutar Tests:
+  EjecutarTests:
    services:
       mysql:
         image: mysql:8
